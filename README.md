@@ -22,6 +22,7 @@ The experimental results for selected Reaxys dataset is:
 9. `pip install openpyxl`
 10. `conda install -c conda-forge matplotlib`
 11. `pip install py-mini-racer`
+11. `pip install rdkit`
 
 Alternatively, you can choose to install the environment by the .yml file:
 ```
